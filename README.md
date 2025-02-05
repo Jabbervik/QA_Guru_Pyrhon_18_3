@@ -1,2 +1,2 @@
-# QA_Guru_Pyrhon_3
+# QA_Guru_Python_3
 Добавил строку через GitHub
